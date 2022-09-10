@@ -10,3 +10,13 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+#others
+.models
+/models
+.raw_data
+/raw_data
+.results
+/results
+.weights
+/weights
